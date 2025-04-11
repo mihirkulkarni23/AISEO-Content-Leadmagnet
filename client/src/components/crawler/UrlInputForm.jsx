@@ -38,7 +38,7 @@ function UrlInputForm({ url, onUrlChange, onSubmit, isLoading }) {
   return (
     <form onSubmit={handleFormSubmit} className="bg-white rounded-xl p-6 lg:p-8 shadow-2xl max-w-md mx-auto flex flex-col relative overflow-y-auto max-h-[calc(100vh-120px)] hover:scrollbar-thin scrollbar-none hover:scrollbar-thumb-gray-300/50 hover:scrollbar-track-transparent">
       <h2 className="text-2xl font-bold text-gray-800 mb-4">
-        Boost Traffic with AI Content
+        Drive Relevant Traffic with AI Content
       </h2>
       
       <p className="text-gray-600 mb-6">
